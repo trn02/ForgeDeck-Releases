@@ -42,6 +42,12 @@
                         "version":  "20260925203225",
                         "zipUrl":  "https://github.com/trn02/ForgeDeck-Releases/releases/download/v20260925203225/ForgeDeck-patch-win-x64.zip",
                         "sha256":  "444c3d61880c25e538917ba40119c39ab0dba65ae671398f5a9aade16917012f"
+                    },
+                    {
+                        "baseVersion":  "20260925203225",
+                        "version":  "20260925204949",
+                        "zipUrl":  "https://github.com/trn02/ForgeDeck-Releases/releases/download/v20260925204949/ForgeDeck-patch-win-x64.zip",
+                        "sha256":  "09aee1af27c55e345995cbc8d03ab2e769b816e54b5ac9a5c44fb261b24833ea"
                     }
                 ]
 }
